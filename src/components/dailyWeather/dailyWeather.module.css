@@ -1,0 +1,38 @@
+.container {
+    margin-top: 150px;
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+}
+
+.item {
+    cursor: pointer;
+    width: 170px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    font-size: 19px;
+    font-weight: 700;
+    border: 1px solid rgba(24, 24, 24, 0.404);
+    box-shadow: 12px 12px 2px 1px rgba(141, 55, 167, 0.2);
+    ;
+}
+
+.hours {
+    display: flex;
+    gap: 5px
+}
+
+
+.img {
+    width: 90px;
+    height: 90px;
+}
+
+.imgCont {
+    font-size: 18px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}

@@ -1,0 +1,15 @@
+.headerContainer {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 5%;
+    background-color: rgba(41, 5, 75, 0.548);
+}
+
+.converter {
+    display: flex;
+}
+
+.inputCont {
+    display: flex;
+}
